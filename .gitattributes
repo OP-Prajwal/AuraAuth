@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files should use LF
+*.py text eol=lf
+
+# Markdown files should use CRLF on Windows
+*.md text eol=crlf
+
+# Other text files to normalize
+*.txt text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
