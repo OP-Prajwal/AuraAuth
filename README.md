@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 ## 🙌 Acknowledgements
 
 * PyDub, Librosa – audio processing
-* Scikit-learn, TensorFlow/PyTorch – model training
+* Scikit-learn, TensorFlow – model training
 * OpenAI & Google for public research datasets
 
 ---
